@@ -1,0 +1,31 @@
+{
+  "name": "react-purge-form",
+  "version": "0.0.1",
+  "description": "tiny form lib for react + native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cr4zyM4rvin/react-purge-form.git"
+  },
+  "keywords": [
+    "\"react",
+    "form\"",
+    "\"react",
+    "native",
+    "form\"",
+    "\"rn",
+    "form\""
+  ],
+  "author": "M4rv!n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cr4zyM4rvin/react-purge-form/issues"
+  },
+  "homepage": "https://github.com/Cr4zyM4rvin/react-purge-form#readme",
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
